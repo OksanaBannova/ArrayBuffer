@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/k1a2r2l2d3m89o6o?svg=true)](https://ci.appveyor.com/project/OksanaBannova/arraybuffer)
+
 ## `ArrayBuffer`
 
 ### Легенда
